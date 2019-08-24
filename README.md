@@ -19,4 +19,5 @@ and help us interact with people interesting in collaborating in projects and ma
 
 
 ![Image of GST]
+
 (https://s3.amazonaws.com/globalsouth.net/GST-global.jpg)
