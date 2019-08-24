@@ -5,6 +5,8 @@ The purpose for this bot project on telegram is to help us build a matching engi
 
 This tool will allow us to gather data to better match, builders, mentors, and others through out whole GST community to help out in existing or new projects.
 
+http://t.me/gst_thebot 
+
 # Get Started
 If you have a project please go:
 LINK SHEET
@@ -16,3 +18,5 @@ This project we are using https://core.telegram.org/bots/api
 and help us interact with people interesting in collaborating in projects and match them and ultimately create a hybrid of face to face and remote project based teams
 
 
+![Image of GST]
+(https://s3.amazonaws.com/globalsouth.net/GST-global.jpg)
