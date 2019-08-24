@@ -18,6 +18,4 @@ This project we are using https://core.telegram.org/bots/api
 and help us interact with people interesting in collaborating in projects and match them and ultimately create a hybrid of face to face and remote project based teams
 
 
-If you want to embed images, this is how you do it:
-
 ![Image of Yaktocat](https://s3.amazonaws.com/globalsouth.net/GST-global.jpg)
