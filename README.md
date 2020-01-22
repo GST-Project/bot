@@ -21,7 +21,11 @@ For this project we are using https://core.telegram.org/bots/api and the data we
 
 
 # Output
-The bot tool will be gathering data from our GST community and adding tags to this data for matching purposes and help our community and partners engage co-creating and collaborating in local/global tech projects.
+The bot will have the following functions:
+
+1. Gather Data
+2. Match people around skill sets, and projects
+3. Notify users of potential matches and new projects
 
 
 
