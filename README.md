@@ -1,9 +1,11 @@
-# Bot
-GST Community Bot
+# Community Bot
 
-The purpose for this bot project on telegram is to help us build a matching engine for our whole GST community of individuals around the world to engage actively, meet, connect, and collaborate as a community cluster on projects! 
+The purpose for this bot using the telegram bot API is to help us gather data from our GST community of individuals across the world with the purpose to create and match teams around cross-border collaborative projects. The data gathered will be about:
 
-This tool will allow us to gather data to better match, entrepreners, developers, regulators and diverse set of mentors, and other key actors through out our whole GST community (16k people across 42 different countries).
+1. Skill Sets (tech, and non-tech skills)
+2. Project Ideas (location, vision, goal, problem statement, use cases)
+
+The bot will use this data to help us match people with complementary skill sets to form a team and work on the desired or submitted project idea. We can match, entrepreners, developers, regulators and diverse set of mentors, and other key actors through out our whole GST community (16k people across 42 different countries) and partners.
 
 http://t.me/gst_thebot 
 
